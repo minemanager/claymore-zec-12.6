@@ -1,1 +1,1 @@
-"# claymore-zec-12.6" 
+claymore-zec-12.6
